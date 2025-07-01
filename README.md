@@ -4,7 +4,7 @@
 
 [![Netlify status](https://api.netlify.com/api/v1/badges/b854c7b0-7765-4fe0-a1a7-06e300c4e164/deploy-status)](https://app.netlify.com/projects/whimsical-cheesecake-9c86fe/deploys)
 
-> ![NOTE]
+> [!NOTE]
 > 📦 This is a **monorepo** containing the Placer Toolkit core and its documentation site.
 
 ## 🚧 Pre‐release notice
