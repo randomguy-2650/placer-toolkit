@@ -13,7 +13,7 @@ This is a **pre‐release** version of Placer Toolkit. There may be instabilitie
 
 ## 🛠️ Custom Placer Toolkit builds
 
-If you want to create custom builds of Placer Toolkit, you can use this documentation to learn how to build Placer Toolkit from source. You will need Node.js ≥18 to build and run the project locally.
+If you want to create custom builds of Placer Toolkit, you can use this documentation to learn how to build Placer Toolkit from source. You will need Node.js ≥ 18 to build and run the project locally.
 
 You don’t need any of this to use Placer Toolkit. This section is for contributors or anyone who wants to tinker with the source or create custom builds of Placer Toolkit.
 
